@@ -26,6 +26,6 @@
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/mirrorclip.git
+git clone https://github.com/Julian-010/MirrorClip.git
 cd mirrorclip
 pip install -r requirements.txt
