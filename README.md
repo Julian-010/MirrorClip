@@ -18,12 +18,14 @@
 
 ---
 
-🧩 ¿Para qué sirve?
+## 🧩 ¿Para qué sirve?
+
 MirrorClip permite a varios dispositivos en la misma red compartir automáticamente su portapapeles, ideal para oficinas, aulas o equipos que colaboran sin depender de servicios externos ni almacenamiento en la nube.
 
 ---
 
-🛠️ Estado del proyecto
+## 🛠️ Estado del proyecto
+
 MirrorClip está en desarrollo activo. Se recomienda su uso en entornos controlados mientras se integran más características y pruebas de estabilidad.
 ## 📦 Instalación
 
